@@ -45,9 +45,10 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #6c13d3;
   cursor: pointer;
   transition: border-color 0.25s;
+  margin-top: 20px;
 }
 button:hover {
   border-color: #646cff;
@@ -104,7 +105,7 @@ input {
   width: 40%;
   margin: 15px 10px;
   background-color: rgb(155, 155, 155);
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 @media (prefers-color-scheme: light) {
